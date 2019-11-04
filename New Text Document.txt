@@ -1,0 +1,40 @@
+data set liya smjha
+data handling - data set mea odd value thik kiye ki koi negative value to ni ( mean nikal kr rakhdo new value)
+data cleaning - unwanted data discarding
+load data - 
+loading dataset in fucntion in line 7
+m=cancer hai =1
+b= ni hai =0
+
+line will print 5 lines of dataset
+
+cancer.py
+normalising data
+text x ko normalise kiya
+
+gradient descent 
+line 27
+theta = local minimum 
+alpha = learning rate
+
+x and y vlue in matrix 
+
+cost function
+cost= function that measures the performnace of a ml model
+cost function mea y ki value ek baar 0 and ek baar 1. 
+
+normalise
+shorting the value
+by
+1. mean nikal kr, har value mea se mean(mu) minus krke standard deviation(sigma) se divide krdo
+
+get efficiency
+p>0.5then =1=yes
+p<0.5 then =0=no
+
+cancer hai aur result b no hi= false negative
+cancer ni hai aur result
+accuracy= kitna accurate hai result 
+precision= kitna close hai result
+recall=
+f1= 
